@@ -20,6 +20,5 @@ Aur saath mein Structures.
 Econometrics aur statistics mein jab hum kisi data ko tables ke format mein analyze karte hain (jismein rows aur columns hon), to use Panel Data kaha jata hai. Wahin se yeh naam nikal kar aaya Pandas.
 
 🏗️ Pandas Itni Powerful Aur Fast Kyun Hai?
-Kyunki aap Django aur backend janti hain, aapko yeh jaan kar maza aayega ke Pandas ka jo main logic aur inner structure hai, wo C language mein likha gaya hai.
 
 Python upar se sirf ek interface ka kaam karti hai, lekin background mein saari tez-tarreen calculation C language ki speed par hoti hai. Isiliye yeh lakhon rows ka data milliseconds mein filter kar deti hai.
