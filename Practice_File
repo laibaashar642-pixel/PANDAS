@@ -1,0 +1,26 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Name</th>
+      <th>Profession</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Laiba</td>
+      <td>AI Intern</td>
+    </tr>
+    <tr>
+      <td>Ali</td>
+      <td>Frontend</td>
+    </tr>
+    <tr>
+      <td>Zara</td>
+      <td>Backend</td>
+    </tr>
+    <tr>
+      <td>Sana</td>
+      <td>IT Manager</td>
+    </tr>
+  </tbody>
+</table>
