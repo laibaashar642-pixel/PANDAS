@@ -1,3 +1,5 @@
+#Check Python Version
+#print(pd.__version__)
 import pandas as pd
 colleagues={
     "Name":["laiba","Ashar","Sana","Ali","Zainab"],

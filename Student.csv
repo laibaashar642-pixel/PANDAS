@@ -1,4 +1,5 @@
-0
-"['Laiba', 'Ashar', 'Sana', 'Huma']"
-"['It', 'Cs', 'Se', 'Ai']"
-"['Frontend', 'Backened', 'Networking', 'Mentorship']"
+name,class,skills
+Laiba,It,Frontend
+Ashar,Cs,Backened
+Sana,Se,Networking
+Huma,Ai,Mentorship
