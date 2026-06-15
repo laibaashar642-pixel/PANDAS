@@ -75,9 +75,9 @@ print(df.fillna({'marks': df['marks'].mean()}, inplace=True))#marks kai nan ko m
 df.rename(columns={"marks":"score","age":"years"},inplace=True)
 #Adding new column
 df['passing']='Yes'#Sb ko yes
-df['total']=df['marks']*2 #marks ko double
+df['total']=df['score']*2 #marks ko double
 #Exsisting Column Modification
-df['marks']=df['marks']+5
+df['score']=df['score']+5
 #You can't apply all the operations so choose one by one
 #Apply Aur Lambda
 #Apply means hr value pr aik function chalo
